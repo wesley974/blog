@@ -14,7 +14,7 @@
 - Admin interface for article management.
 - Write articles using the Tiptap editor.
 - Toggle the `/register` route to either allow new user registrations or display a 'Registration Closed' message.
-- Allow clipboard, ctrl-v to paste image
+- Enable pasting images directly into the editor using Ctrl+V or clipboard operations.
 
 #### CRUD Operations
 - Create, Read, Update, and Delete articles.
