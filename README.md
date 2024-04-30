@@ -6,7 +6,6 @@
 - Postgres from Vercel
 - Prisma
 - Tiptap
-- TypeScript
 
 ### Project Features
 
@@ -25,7 +24,7 @@
 - User registration: Pseudonym, username, password (minimum 20 characters).
 
 ### Authentication
-- Username/Password authentication (consider using JWT).
+- Username/Password authentication
 - Sessions expire after 2 hours.
 
 ### SEO Optimization
