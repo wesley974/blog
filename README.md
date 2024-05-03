@@ -5,7 +5,7 @@
 - Vercel environment
 - Postgres from Vercel
 - Prisma
-- Tiptap
+- Tiptap or any online editor
 
 ### Project Features
 
@@ -13,7 +13,7 @@
 - Admin interface for article management.
 - Write articles using the Tiptap editor.
 - Toggle the `/register` route to either allow new user registrations or display a 'Registration Closed' message.
-- Enable pasting images directly into the editor using Ctrl+V or clipboard operations.
+- Enable pasting images directly into the editor using **Ctrl+V** (from clipboard).
 
 #### CRUD Operations
 - Create, Read, Update, and Delete articles.
