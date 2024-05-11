@@ -5,7 +5,7 @@
 - Vercel environment
 - Postgres from Vercel
 - Prisma
-- Tiptap or any online editor
+- Tiptap or another online editor
 
 ### Project Features
 
